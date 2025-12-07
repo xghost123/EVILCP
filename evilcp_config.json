@@ -1,0 +1,15 @@
+{
+    "telegram": {
+        "bot_token": "7600363311:AAG9LuT-EyJYn2zYAxWBRSqCqtqkRCPFPSE",
+        "chat_id": "6292202467",
+        "enabled": true,
+        "send_immediately": true,
+        "obfuscate_data": false,
+        "report_format": "compact"
+    },
+    "general": {
+        "auto_save": true,
+        "max_threads": 10,
+        "timeout": 15
+    }
+}
